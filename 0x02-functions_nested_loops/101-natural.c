@@ -4,9 +4,10 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Scuccess)
  */
 int main(void)
 {
+
 	return (0);
 }
