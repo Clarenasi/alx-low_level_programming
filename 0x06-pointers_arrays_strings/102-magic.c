@@ -16,7 +16,7 @@ int main(void)
 	p = &n;
 	printf("a[2] = 98\n");
 
-	*(p + 5) = 98;
+	*(p + 3) = 98;
 	printf("a[2] = %d\n", a[2]);
 
 	return (0);
