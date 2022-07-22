@@ -1,1 +1,1 @@
-# C argc and argv
+C - argc, argv
